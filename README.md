@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a ..., from ....</p>
+<p align="left">I'm a Full Stack Web Developer in training at ITS Mario Volpato, from ....</p>
 
 ###
 
