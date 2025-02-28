@@ -35,7 +35,7 @@
 <a href="https://t.me/gianluca_dalmaso" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram logo" />
 </a>
-    [<a href="https://www.sergiomeneguzzo.it" target="_blank">
+    <!--<a href="https://www.sergiomeneguzzo.it" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo" />
-  </a>]
+  </a>-->
 </div>
