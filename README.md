@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋 I'm Gianluca</h1>
+<h1 align="left">Hello 👋 I'm Gianluca Dal Maso</h1>
 
 ###
 
