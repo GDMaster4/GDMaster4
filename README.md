@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Full Stack Web Developer in training at ITS Mario Volpato, passionate about the MEAN stack (MongoDB, Express, Angular, Node.js), and eager to improve my skills through hands-on projects and continuous learning.</p>
+<p align="left">I'm a Full Stack Web Developer trained at ITS Mario Volpato, passionate about the MEAN stack (MongoDB, Express, Angular, Node.js) and Python, also eager to improve my skills through hands-on projects and continuous learning.</p>
 
 ###
 
